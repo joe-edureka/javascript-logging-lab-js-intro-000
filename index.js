@@ -1,2 +1,2 @@
 console.error("Help: console.error")
-console.warn*("")
+console.warn("")
