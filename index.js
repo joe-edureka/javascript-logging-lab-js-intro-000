@@ -1,1 +1,1 @@
-console.error("Help: console.")
+console.error("Help: console.error")
